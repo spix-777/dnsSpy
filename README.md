@@ -1,4 +1,4 @@
-dnsSpy - the inernet spy
+dnsSpy - The Internet Spy!
 ------------------------
 
 dnsSpy is a Go program that takes in command line arguments for a base URL, a wordlist file, and an output file. It scans the wordlist file and performs HTTP GET requests on each word appended to the base URL. If the GET request is successful, it prints the valid URL and the corresponding IP address. It also writes the valid URL and IP address to the specified output file.
